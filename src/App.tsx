@@ -134,7 +134,7 @@ function App() {
             
             <div className="bg-white p-6 rounded-lg shadow-md flex flex-col md:flex-row items-center gap-6">
               <img 
-                src="https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=300&q=80" 
+                src="src/images/kwamena.jpg" 
                 alt="David Wang" 
                 className="w-32 h-32 rounded-full object-cover border-4 border-red-500"
               />

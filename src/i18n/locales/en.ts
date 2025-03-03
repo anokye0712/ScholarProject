@@ -1,12 +1,12 @@
 export default {
   // Header
-  "title": "China Scholarship Consultancy",
+  "title": "VIKOW EDU.",
   "tagline": "Guiding students toward academic excellence and opportunities in China",
   
   // About Section
   "whoWeAre": "Who We Are",
   "aboutText1": "We are a dedicated team of education consultants specializing in helping students secure scholarships for studies in China. With years of experience and a deep understanding of the application process, we guide students through every step of their journey.",
-  "aboutText2": "Our mission is to make quality education in China accessible to international students through comprehensive scholarship application support.",
+  "aboutText2": "Our mission is to make quality education in China accessible to international students through comprehensive scholarship application support. And also for students who are willing to pay tuition.",
   
   // Services Section
   "ourServices": "Our Services",
@@ -36,8 +36,8 @@ export default {
   "contactUs": "Contact Us",
   "contactIntro": "Ready to start your educational journey in China? Get in touch with our consultants today!",
   "email": "scholarships@chinaconsulatancy.com",
-  "phone": "+1 (234) 567-8900",
-  "whatsapp": "WhatsApp: +1 (234) 567-8900",
+  "phone": "+(86) 195 999 63055",
+  "whatsapp": "WhatsApp: +(86) 195 999 63055",
   
   // Team Section
   "ourTeam": "Our Team",
