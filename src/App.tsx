@@ -119,7 +119,7 @@ function App() {
           <div className="grid md:grid-cols-2 gap-8">
             <div className="bg-white p-6 rounded-lg shadow-md flex flex-col md:flex-row items-center gap-6">
               <img 
-                src="/images/kate.jpg" 
+                src="/src/images/kate.jpg" 
                 alt="Kate Don" 
                 className="w-32 h-32 rounded-full object-cover border-4 border-red-500"
               />
@@ -134,7 +134,7 @@ function App() {
             
             <div className="bg-white p-6 rounded-lg shadow-md flex flex-col md:flex-row items-center gap-6">
               <img 
-                src="/images/kwamena.jpg" 
+                src="/src/images/kwamena.jpg" 
                 alt="Kwamena Brakwah" 
                 className="w-32 h-32 rounded-full object-cover border-4 border-red-500"
               />
