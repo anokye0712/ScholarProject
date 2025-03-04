@@ -1,12 +1,12 @@
 export default {
   // Header
-  "title": "Consultoría de Becas para China",
+  "title": "VIKOW EDU.",
   "tagline": "Guiando a estudiantes hacia la excelencia académica y oportunidades en China",
   
   // About Section
   "whoWeAre": "Quiénes Somos",
   "aboutText1": "Somos un equipo dedicado de consultores educativos especializados en ayudar a estudiantes a obtener becas para estudios en China. Con años de experiencia y un profundo conocimiento del proceso de solicitud, guiamos a los estudiantes en cada paso de su viaje.",
-  "aboutText2": "Nuestra misión es hacer que la educación de calidad en China sea accesible para estudiantes internacionales a través de un apoyo integral en la solicitud de becas.",
+  "aboutText2": "Nuestra misión es hacer que la educación de calidad en China sea accesible para los estudiantes internacionales a través de un apoyo integral en la solicitud de becas. Y también para los estudiantes dispuestos a pagar la matricula.",
   
   // Services Section
   "ourServices": "Nuestros Servicios",
@@ -35,9 +35,9 @@ export default {
   // Contact Section
   "contactUs": "Contáctanos",
   "contactIntro": "¿Listo para comenzar tu viaje educativo en China? ¡Ponte en contacto con nuestros consultores hoy!",
-  "email": "scholarships@chinaconsulatancy.com",
-  "phone": "+1 (234) 567-8900",
-  "whatsapp": "WhatsApp: +1 (234) 567-8900",
+  "email": "Vikoweduchina@outlook.com",
+  "phone": "+(86) 195 999 63055",
+  "whatsapp": "WhatsApp: +(86) 195 999 63055",
   
   // Team Section
   "ourTeam": "Nuestro Equipo",

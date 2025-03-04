@@ -35,7 +35,7 @@ export default {
   // Contact Section
   "contactUs": "Contact Us",
   "contactIntro": "Ready to start your educational journey in China? Get in touch with our consultants today!",
-  "email": "scholarships@chinaconsulatancy.com",
+  "email": "Vikoweduchina@outlook.com",
   "phone": "+(86) 195 999 63055",
   "whatsapp": "WhatsApp: +(86) 195 999 63055",
   

@@ -1,12 +1,12 @@
 export default {
   // Header
-  "title": "Consultance pour Bourses d'Études en Chine",
+  "title": "VIKOW EDU.",
   "tagline": "Guider les étudiants vers l'excellence académique et les opportunités en Chine",
   
   // About Section
   "whoWeAre": "Qui Sommes-Nous",
   "aboutText1": "Nous sommes une équipe dévouée de consultants en éducation spécialisés dans l'aide aux étudiants pour obtenir des bourses d'études en Chine. Avec des années d'expérience et une compréhension approfondie du processus de candidature, nous guidons les étudiants à chaque étape de leur parcours.",
-  "aboutText2": "Notre mission est de rendre l'éducation de qualité en Chine accessible aux étudiants internationaux grâce à un soutien complet pour les demandes de bourses.",
+  "aboutText2": "Notre mission est de rendre l'éducation de qualité en Chine accessible aux étudiants internationaux grâce à un soutien complet dans la demande de bourses. Et également pour les étudiants prêts à payer les frais de scolarité.",
   
   // Services Section
   "ourServices": "Nos Services",
@@ -35,9 +35,9 @@ export default {
   // Contact Section
   "contactUs": "Contactez-Nous",
   "contactIntro": "Prêt à commencer votre parcours éducatif en Chine ? Contactez nos consultants dès aujourd'hui !",
-  "email": "scholarships@chinaconsulatancy.com",
-  "phone": "+1 (234) 567-8900",
-  "whatsapp": "WhatsApp: +1 (234) 567-8900",
+  "email": "Vikoweduchina@outlook.com",
+  "phone": "+(86) 195 999 63055",
+  "whatsapp": "WhatsApp: +(86) 195 999 63055",
   
   // Team Section
   "ourTeam": "Notre Équipe",

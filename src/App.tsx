@@ -135,7 +135,22 @@ function App() {
             <div className="bg-white p-6 rounded-lg shadow-md flex flex-col md:flex-row items-center gap-6">
               <img 
                 src="src/images/kwamena.jpg" 
-                alt="David Wang" 
+                alt="Kwamena Brakwah" 
+                className="w-32 h-32 rounded-full object-cover border-4 border-red-500"
+              />
+              <div>
+                <h3 className="text-xl font-bold text-gray-800">{t('davidName')}</h3>
+                <p className="text-red-600 font-medium mb-2">{t('davidTitle')}</p>
+                <p className="text-gray-600">
+                  {t('davidDesc')}
+                </p>
+              </div>
+            </div>
+
+            <div className="bg-white p-6 rounded-lg shadow-md flex flex-col md:flex-row items-center gap-6">
+              <img 
+                src="src/images/kwamena.jpg" 
+                alt="Kwamena Brakwah" 
                 className="w-32 h-32 rounded-full object-cover border-4 border-red-500"
               />
               <div>
