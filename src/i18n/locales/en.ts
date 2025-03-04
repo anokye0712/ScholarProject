@@ -49,7 +49,7 @@ export default {
   "davidDesc": "PhD graduate from Tsinghua University with extensive knowledge of the Chinese education system and scholarship opportunities.",
   
   // Footer
-  "copyright": "© 2025 China Scholarship Consultancy. All rights reserved.",
+  "copyright": "© 2025 VIKOW EDU. All rights reserved.",
   
   // Language Selector
   "selectLanguage": "Language",

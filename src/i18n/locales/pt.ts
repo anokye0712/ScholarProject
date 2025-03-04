@@ -49,7 +49,7 @@ export default {
   "davidDesc": "Doutor graduado pela Universidade Tsinghua com amplo conhecimento do sistema educacional chinês e oportunidades de bolsas.",
   
   // Footer
-  "copyright": "© 2025 Consultoria de Bolsas para China. Todos os direitos reservados.",
+  "copyright": "© 2025 VIKOW EDU. Todos os direitos reservados.",
   
   // Language Selector
   "selectLanguage": "Idioma",

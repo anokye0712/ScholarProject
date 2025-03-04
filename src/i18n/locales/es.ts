@@ -49,7 +49,7 @@ export default {
   "davidDesc": "Graduado de doctorado de la Universidad de Tsinghua con amplio conocimiento del sistema educativo chino y oportunidades de becas.",
   
   // Footer
-  "copyright": "© 2025 Consultoría de Becas para China. Todos los derechos reservados.",
+  "copyright": "© 2025 VIKOW EDU. Todos los derechos reservados.",
   
   // Language Selector
   "selectLanguage": "Idioma",
