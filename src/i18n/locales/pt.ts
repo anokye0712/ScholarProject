@@ -41,12 +41,12 @@ export default {
   
   // Team Section
   "ourTeam": "Nossa Equipe",
-  "sarahName": "Sarah Chen",
-  "sarahTitle": "Fundadora e Consultora Principal",
-  "sarahDesc": "Ex-conselheira de estudantes internacionais com mais de 8 anos de experiência ajudando estudantes a garantir bolsas nas melhores universidades chinesas.",
-  "davidName": "David Wang",
-  "davidTitle": "Especialista em Educação",
-  "davidDesc": "Doutor graduado pela Universidade Tsinghua com amplo conhecimento do sistema educacional chinês e oportunidades de bolsas.",
+  "kateName": "Sarah Chen",
+  "kateTitle": "Consultor principal",
+  "kateDesc": "Ex-assessor de estudantes internacionais com mais de 4 anos de experiência ajudando alunos a conquistarem bolsas nas melhores universidades chinesas.",
+  "kwameName": "David Wang",
+  "kwameTitle": "Especialista em Educação",
+  "kwameDesc": "Graduado em Mestrado em Engenharia Química pela Universidade de Jiangsu com amplo conhecimento do sistema educacional chinês e das oportunidades de bolsas de estudo.",
   
   // Footer
   "copyright": "© 2025 VIKOW EDU. Todos os direitos reservados.",

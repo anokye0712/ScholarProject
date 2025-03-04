@@ -41,12 +41,12 @@ export default {
   
   // Team Section
   "ourTeam": "Nuestro Equipo",
-  "sarahName": "Sarah Chen",
-  "sarahTitle": "Fundadora y Consultora Principal",
-  "sarahDesc": "Ex asesora de estudiantes internacionales con más de 8 años de experiencia ayudando a estudiantes a obtener becas en las mejores universidades chinas.",
-  "davidName": "David Wang",
-  "davidTitle": "Especialista en Educación",
-  "davidDesc": "Graduado de doctorado de la Universidad de Tsinghua con amplio conocimiento del sistema educativo chino y oportunidades de becas.",
+  "kateName": "Sarah Chen",
+  "kateTitle": "Consultor Principal",
+  "kateDesc": "Ex asesor de estudiantes internacionales con más de 4 años de experiencia ayudando a estudiantes a obtener becas en las mejores universidades de China.",
+  "kwameName": "David Wang",
+  "kwameTitle": "Especialista en Educación",
+  "kwameDesc": "Graduado con una Maestría en Ingeniería Química de la Universidad de Jiangsu con un amplio conocimiento del sistema educativo chino y las oportunidades de becas.",
   
   // Footer
   "copyright": "© 2025 VIKOW EDU. Todos los derechos reservados.",

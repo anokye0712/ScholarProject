@@ -41,12 +41,12 @@ export default {
   
   // Team Section
   "ourTeam": "Our Team",
-  "sarahName": "Sarah Chen",
-  "sarahTitle": "Founder & Lead Consultant",
-  "sarahDesc": "Former international student advisor with 8+ years of experience helping students secure scholarships in top Chinese universities.",
-  "davidName": "David Wang",
-  "davidTitle": "Education Specialist",
-  "davidDesc": "PhD graduate from Tsinghua University with extensive knowledge of the Chinese education system and scholarship opportunities.",
+  "kateName": "Kate Don",
+  "kateTitle": "Lead Consultant",
+  "kateDesc": "Former international student advisor with 4+ years of experience helping students secure scholarships in top Chinese universities.",
+  "kwameName": "Kwamena Brakwah",
+  "kwameTitle": "Education Specialist",
+  "kwameDesc": "Msc Chemical Engineering graduate from Jiangsu University with extensive knowledge of the Chinese education system and scholarship opportunities.",
   
   // Footer
   "copyright": "© 2025 VIKOW EDU. All rights reserved.",
