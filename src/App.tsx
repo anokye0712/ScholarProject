@@ -1,11 +1,13 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Mail, Phone, MessageCircle } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
 import LanguageSelector from './components/LanguageSelector';
+import RequirementsModal from './components/RequirementsModal';
 
 function App() {
   const { t } = useTranslation();
   const currentYear = new Date().getFullYear();
+  const [isRequirementsModalOpen, setIsRequirementsModalOpen] = useState(false);
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-blue-50 to-white">
@@ -14,11 +16,23 @@ function App() {
         <LanguageSelector />
       </div>
 
+      {/* Requirements Modal */}
+      <RequirementsModal 
+        isOpen={isRequirementsModalOpen}
+        onClose={() => setIsRequirementsModalOpen(false)}
+      />
+
       {/* Header/Hero Section */}
       <header className="bg-gradient-to-r from-red-600 to-red-700 text-white py-16 px-4">
         <div className="max-w-6xl mx-auto">
           <h1 className="text-4xl md:text-5xl font-bold mb-4">{t('title')}</h1>
           <p className="text-xl md:text-2xl max-w-2xl">{t('tagline')}</p>
+          <button
+            onClick={() => setIsRequirementsModalOpen(true)}
+            className="bg-white text-red-600 px-6 py-3 rounded-lg font-semibold hover:bg-red-50 transition-colors shadow-lg hover:shadow-xl transform hover:-translate-y-0.5 transition-transform"
+          >
+            {t('viewRequirements')}
+          </button>
         </div>
       </header>
 

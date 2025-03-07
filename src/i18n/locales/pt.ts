@@ -56,5 +56,23 @@ export default {
   "english": "Inglês",
   "french": "Francês",
   "spanish": "Espanhol",
-  "portuguese": "Português"
+  "portuguese": "Português",
+
+  // Requirements Modal
+  "viewRequirements": "Ver Requisitos de Candidatura",
+  "applicationRequirements": "Requisitos de Candidatura",
+  "requirements": {
+    "1": "Foto Tamanho Passaporte",
+    "2": "Página de Identificação do Passaporte",
+    "3": "Histórico Escolar (cópia colorida digitalizada)",
+    "4": "Diploma do Maior Grau (cópia colorida digitalizada)",
+    "5": "Formulário de Exame Físico para Estrangeiros",
+    "6": "Certidão de Antecedentes Criminais (cópia colorida digitalizada)",
+    "7": "Certificado de Proficiência em Inglês (para cursos ministrados em inglês: IELTS Academic Test pontuação geral 6.0 ou superior (não menos que 5.5 em cada elemento)/TOEFL 80 ou superior (My best Scores, iBT home edition, Essentials, código DI C317 são aceitos)/Teste de inglês Duolingo (115 ou superior)/Cambridge International Advanced LEVEL English - Exames Cambridge Main Suite (FCE≥169 ou CAE≥180 ou CPE))",
+    "8": "Formulário de Candidatura Universitária",
+    "9": "Formulário de Solicitação de Bolsa (formulário de auto apresentação)",
+    "10": "Carta de Garantia para Candidatos menores de 18 anos (A partir de 1º de setembro de 2024, candidatos menores de 18 anos devem fornecer Carta de Compromisso do Responsável e Carta de Garantia do Responsável (baseado no modelo fornecido))",
+    "11": "Visto de Residência (Candidatos na China precisam de um visto válido ou visto de residência)",
+    "12": "Certificado de Estudos na China (Se você estudou na China, precisa do Certificado de Estudos e Histórico Escolar)"
+  }
 };

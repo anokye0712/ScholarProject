@@ -56,5 +56,23 @@ export default {
   "english": "Anglais",
   "french": "Français",
   "spanish": "Espagnol",
-  "portuguese": "Portugais"
+  "portuguese": "Portugais",
+
+  // Requirements Modal
+  "viewRequirements": "Voir les Conditions de Candidature",
+  "applicationRequirements": "Conditions de Candidature",
+  "requirements": {
+    "1": "Photo Format Passeport",
+    "2": "Page d'Identification du Passeport",
+    "3": "Relevés de Notes Académiques (copie couleur numérisée)",
+    "4": "Diplôme le Plus Élevé (copie couleur numérisée)",
+    "5": "Formulaire d'Examen Médical pour Étrangers",
+    "6": "Casier Judiciaire Vierge (copie couleur numérisée)",
+    "7": "Certificat de Compétence en Anglais (pour les filières enseignées en anglais : IELTS Academic Test score global de 6.0 ou plus (minimum 5.5 dans chaque compétence)/TOEFL 80 ou plus (My best Scores, iBT home edition, Essentials, code DI C317 acceptés)/Test d'anglais Duolingo (115 ou plus)/Cambridge International Advanced LEVEL English - Examens Cambridge Main Suite (FCE≥169 ou CAE≥180 ou CPE))",
+    "8": "Formulaire de Candidature Universitaire",
+    "9": "Formulaire de Demande de Bourse (formulaire d'auto-présentation)",
+    "10": "Lettre de Garantie pour les Candidats de Moins de 18 Ans (Au 1er septembre 2024, les candidats mineurs doivent fournir une Lettre d'Engagement du Tuteur et une Lettre de Garantie du Tuteur (selon le modèle fourni))",
+    "11": "Permis de Résidence (Les candidats en Chine doivent avoir un visa ou un permis de résidence valide)",
+    "12": "Certificat d'Études en Chine (Si vous avez étudié en Chine, vous devez fournir le Certificat d'Études et le Relevé de Notes)"
+  }
 };

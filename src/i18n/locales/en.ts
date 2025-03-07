@@ -56,5 +56,23 @@ export default {
   "english": "English",
   "french": "French",
   "spanish": "Spanish",
-  "portuguese": "Portuguese"
+  "portuguese": "Portuguese",
+
+   // Requirements Modal
+   "viewRequirements": "View Application Requirements",
+   "applicationRequirements": "Application Requirements",
+   "requirements": {
+     "1": "Passport-sized Photo",
+     "2": "Passport ID Page",
+     "3": "Academic Transcripts (scanned color copy)",
+     "4": "Highest Degree Diploma (scanned color copy)",
+     "5": "Foreigner Physical Examination Form",
+     "6": "Non-criminal Record (scanned color copy)",
+     "7": "English Language Proficiency Certificate (English taught majors:IELTS Academic Test overall 6.0 or above (no less than 5.5 in each element)/TOEFL 80 or above (My best Scores, iBT home edition, Essentials, DI code C317 are accepted)/Duolingo English Test (115 or above)/Cambridge International Advanced LEVEL English course--ACambridge Main Suite Examinations (FCE≥169 or CAE≥180 or CPE))",
+     "8": "University Application Form",
+     "9": "Scholarship Application Form (self introduction form)",
+     "10": "Guarantee Letter for Applicants under 18 Years Old (As of September 1st, 2024, minor applicants under the age of 18 must provide Guardian's Commitment Letter and Guardian Guarantee Letter (base on given template))",
+     "11": "Residence Permit (Applicants in China need a valid visa or residence permit)",
+     "12": "Study Certificate in China (If you have studied in China need Study Certificate and Transcript)"
+   }
 };

@@ -56,5 +56,23 @@ export default {
   "english": "Inglés",
   "french": "Francés",
   "spanish": "Español",
-  "portuguese": "Portugués"
+  "portuguese": "Portugués",
+
+  // Requirements Modal
+  "viewRequirements": "Ver Requisitos de Solicitud",
+  "applicationRequirements": "Requisitos de Solicitud",
+  "requirements": {
+    "1": "Foto Tamaño Pasaporte",
+    "2": "Página de Identificación del Pasaporte",
+    "3": "Expedientes Académicos (copia a color escaneada)",
+    "4": "Diploma del Título más Alto (copia a color escaneada)",
+    "5": "Formulario de Examen Físico para Extranjeros",
+    "6": "Certificado de Antecedentes Penales (copia a color escaneada)",
+    "7": "Certificado de Competencia en Inglés (para carreras impartidas en inglés: IELTS Academic Test puntaje general 6.0 o superior (no menos de 5.5 en cada elemento)/TOEFL 80 o superior (My best Scores, iBT home edition, Essentials, código DI C317 son aceptados)/Prueba de inglés Duolingo (115 o superior)/Cambridge International Advanced LEVEL English - Exámenes Cambridge Main Suite (FCE≥169 o CAE≥180 o CPE))",
+    "8": "Formulario de Solicitud Universitaria",
+    "9": "Formulario de Solicitud de Beca (formulario de auto presentación)",
+    "10": "Carta de Garantía para Solicitantes menores de 18 años (A partir del 1 de septiembre de 2024, los solicitantes menores de 18 años deben proporcionar Carta de Compromiso del Tutor y Carta de Garantía del Tutor (según la plantilla proporcionada))",
+    "11": "Permiso de Residencia (Los solicitantes en China necesitan una visa válida o permiso de residencia)",
+    "12": "Certificado de Estudios en China (Si has estudiado en China, necesitas Certificado de Estudios y Expediente Académico)"
+  }
 };
